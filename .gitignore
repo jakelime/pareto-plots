@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,jupyternotebooks
 
 *.png
+output-*.csv
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
